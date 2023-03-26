@@ -1,0 +1,7 @@
+.imgContainer {
+  width: 100px;
+  box-sizing: border-box;
+}
+.img {
+  width: 80%;
+}

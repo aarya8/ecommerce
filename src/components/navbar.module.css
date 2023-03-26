@@ -1,0 +1,31 @@
+.nav {
+  height: 10vh;
+
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  box-sizing: border-box;
+  padding: 1rem;
+  background-color: green;
+  align-items: center;
+}
+.nav > input {
+  width: 20%;
+}
+.navul {
+  list-style-type: none;
+  margin: 0;
+  display: flex;
+  gap: 1rem;
+}
+.nav > * {
+  margin: 0;
+
+  padding: 0;
+}
+.searchBox {
+  width: 30%;
+}
+.userBox {
+  display: flex;
+}
